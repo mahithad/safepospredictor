@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/jpmodule_2.12-1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	puzzsupport/JPModule.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/classes/puzzsupport/JPModule.class[0m
+[0m[[0mdebug[0m] [0m	puzzsupport[0m
+[0m[[0mdebug[0m] [0m	  /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/classes/puzzsupport[0m
+[0m[[0mdebug[0m] [0m	puzzsupport/ArgUtils$StringImprovements.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/classes/puzzsupport/ArgUtils$StringImprovements.class[0m
+[0m[[0mdebug[0m] [0m	puzzsupport/ArgUtils$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/classes/puzzsupport/ArgUtils$.class[0m
+[0m[[0mdebug[0m] [0m	puzzsupport/JPModule$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/classes/puzzsupport/JPModule$.class[0m
+[0m[[0mdebug[0m] [0m	puzzsupport/ArgUtils.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Varma/ScalaProjects/jpcountout1/target/scala-2.12/classes/puzzsupport/ArgUtils.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

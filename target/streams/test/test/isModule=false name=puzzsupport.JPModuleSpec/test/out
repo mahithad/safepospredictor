@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mJPModuleSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mCounting Out - Safe Position Determination Module[0m[0m
+[0m[[0minfo[0m] [0m[32m- should show position 3 is safest for n=3 and k=2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should show position 1 is safest for n=65536 and k=2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should show position 2 is safest for n=5 and k=5[0m[0m
+[0m[[0minfo[0m] [0m[32m- should show position x is safest for n=x and k=1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw IllegalArgumentException if Number of People < 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw IllegalArgumentException if Step Rate < 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an Usage Error if number of arguments are not 2 when running from console[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw a Parameter Error if any of arguments are not numbers when running from console[0m[0m
