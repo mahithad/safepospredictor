@@ -13,7 +13,7 @@ JPModule Object provides methods
   calcSafePosition(Long, Long) - Method that takes Individual numeric parameters for Number of People and Step Rate and returns a numeric value for safest position
   main(String Array) - Method to support "run n k" option from console directly
 
-## Exection Details
+## Execution Details
 
 ### Pre-requisites
 
