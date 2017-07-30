@@ -27,6 +27,7 @@ JPModule Object provides methods
 2. Open the terminal and use "scala [relative path to the downloaded jar file]/jpmodule_2.12-1.0-SNAPSHOT.jar n k" to run the application,
     where n - Number of people parameter
     and  k - Step Rate parameter
+     _(validated in Mac)_
 
 The output should read,
 ```
