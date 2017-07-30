@@ -12,7 +12,7 @@ The test framework has been developed in ScalaTest. Object: JPModuleSpec.
 JPModule Object provides methods 
   1. consoleCalcSafePos(String Array) - Method that takes 2 string parameters Number of People and Step Rate in an Array format and returns a String response to support Console applications
   2. calcSafePosition(Long, Long) - Method that takes Individual numeric parameters for Number of People and Step Rate and returns a numeric value for safest position
-  3. main(String Array) - Method to support "run n k" option from console directly
+  3. main(String Array) - Method to support "run n k" option from console directly when running an application in sbt
 
 ## Execution Details
 
