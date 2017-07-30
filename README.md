@@ -18,8 +18,8 @@ JPModule Object provides methods
 
 ### Pre-requisites
 
-Install Scala
-Install Sbt
+1. Install Scala
+2. Install Sbt
 
 ### Step-by-Step Instructions
 
